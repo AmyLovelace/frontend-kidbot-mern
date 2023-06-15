@@ -1,0 +1,10 @@
+.form{
+    font-size:23px;
+}
+body{
+background: rgb(63,222,224);
+background: -moz-linear-gradient(0deg, rgba(63,222,224,1) 0%, rgba(182,139,233,1) 100%);
+background: -webkit-linear-gradient(0deg, rgba(63,222,224,1) 0%, rgba(182,139,233,1) 100%);
+background: linear-gradient(0deg, rgba(63,222,224,1) 0%, rgba(182,139,233,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3fdee0",endColorstr="#b68be9",GradientType=1);
+}
